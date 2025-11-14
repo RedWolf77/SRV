@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/redwolf/Documents/All/BFU/5сем/srv/labs/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab1/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -o CMakeFiles/lab1.dir/src/main.cpp.o -c /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab1/src/main.cpp",
+  "file": "/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab1/src/main.cpp",
+  "output": "CMakeFiles/lab1.dir/src/main.cpp.o"
+}
+]
