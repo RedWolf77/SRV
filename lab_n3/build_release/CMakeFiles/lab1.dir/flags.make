@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n2/lab1/include
+CXX_INCLUDES = -I/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n3/lab3/include
 
 CXX_FLAGSarm64 = -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra
 

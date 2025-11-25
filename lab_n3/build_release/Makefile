@@ -57,10 +57,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n2/lab1
+CMAKE_SOURCE_DIR = /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n3/lab3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n2/build_release
+CMAKE_BINARY_DIR = /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n3/build_release
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n2/build_release/CMakeFiles /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n2/build_release//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n3/build_release/CMakeFiles /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n3/build_release//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n2/build_release/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n3/build_release/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
