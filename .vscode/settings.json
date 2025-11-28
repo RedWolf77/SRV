@@ -62,6 +62,8 @@
         "sstream": "cpp",
         "unordered_map": "cpp",
         "vector": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "condition_variable": "cpp",
+        "iomanip": "cpp"
     }
 }
