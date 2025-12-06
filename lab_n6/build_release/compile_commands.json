@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n6/build_release",
+  "command": "/opt/homebrew/opt/llvm/bin/clang++  -I/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n6/lab6/include -O3 -DNDEBUG -std=gnu++2a -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -stdlib=libc++ -Wall -Wextra -o CMakeFiles/lab1.dir/src/main.cpp.o -c /Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n6/lab6/src/main.cpp",
+  "file": "/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n6/lab6/src/main.cpp",
+  "output": "CMakeFiles/lab1.dir/src/main.cpp.o"
+}
+]

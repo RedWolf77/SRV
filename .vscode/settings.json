@@ -1,5 +1,5 @@
 {
-    "cmake.sourceDirectory": "/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab1",
+    "cmake.sourceDirectory": "/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n6/lab6",
     "files.associations": {
         "__bit_reference": "cpp",
         "__config": "cpp",
@@ -64,6 +64,8 @@
         "vector": "cpp",
         "thread": "cpp",
         "condition_variable": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "semaphore": "cpp",
+        "coroutine": "cpp"
     }
 }
