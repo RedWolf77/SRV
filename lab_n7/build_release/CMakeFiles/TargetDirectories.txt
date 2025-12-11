@@ -1,0 +1,7 @@
+/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n7/build_release/CMakeFiles/lab7_main.dir
+/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n7/build_release/CMakeFiles/udp_server.dir
+/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n7/build_release/CMakeFiles/udp_client.dir
+/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n7/build_release/CMakeFiles/tcp_server.dir
+/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n7/build_release/CMakeFiles/tcp_client.dir
+/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n7/build_release/CMakeFiles/edit_cache.dir
+/Users/redwolf/Documents/All/BFU/5сем/srv/labs/lab_n7/build_release/CMakeFiles/rebuild_cache.dir
